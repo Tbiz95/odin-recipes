@@ -25,3 +25,8 @@
 .lasagna-pic {
     text-align:center;
 }
+.header-description.lasagna,
+.header-ingredients.lasagna,
+.header-steps.lasagna {
+    background-color:red;
+}

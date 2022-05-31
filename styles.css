@@ -27,12 +27,16 @@ body {
     background-color:black;
 }
 .lasagna-pic {
-    height: 220px;
+    height: 250px;
     width:auto;
 }
 .header-description.lasagna,
 .header-ingredients.lasagna,
 .header-steps.lasagna {
     background-color:red;
-
+}
+.lasagna-description,
+.ingredients-list.lasagna,
+.steps-list.lasagna {
+background-color:aqua;
 }

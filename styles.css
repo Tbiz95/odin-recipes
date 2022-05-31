@@ -1,3 +1,6 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+}
 .home-header {
     text-align: center;
     background-color:gold;
@@ -15,18 +18,21 @@
 .home-list.three {
     background-color:deeppink;
 }
-.home-style {
-    font-family:'Courier New', Courier, monospace;
-}
 .lasagna-header {
     background-color:red;
     text-align: center;
 }
-.lasagna-pic {
+.lasagna-pic.container {
     text-align:center;
+    background-color:black;
+}
+.lasagna-pic {
+    height: 220px;
+    width:auto;
 }
 .header-description.lasagna,
 .header-ingredients.lasagna,
 .header-steps.lasagna {
     background-color:red;
+
 }

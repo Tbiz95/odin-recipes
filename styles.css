@@ -40,3 +40,18 @@ body {
 .steps-list.lasagna {
 background-color:aqua;
 }
+.stuffed-header {
+    background-color: aqua;
+    text-align:center;
+}
+.stuffed-pic.container {
+    background-color:black;
+    text-align:center;
+}
+.stuffed-pic {
+    height:265px;
+    width:auto;
+}
+.stuffed-subheader {
+    background-color: aqua;
+}

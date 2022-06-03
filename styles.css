@@ -65,3 +65,11 @@ background-color:aqua;
 .stirfry-subheader {
     background-color:deeppink;
 }
+.stirfry-pic.container {
+    background-color:black;
+    text-align:center;
+}
+.stirfry-pic {
+    height:270px;
+    width:auto;
+}

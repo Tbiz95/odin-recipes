@@ -36,10 +36,14 @@ body {
 .header-steps.lasagna {
     background-color:red;
 }
+
 .lasagna-description,
 .ingredients-list.lasagna,
-.steps-list.lasagna {
+.lasagna.steps-list {
 background-color:aqua;
+}
+.lasagna.steps-list {
+    padding-bottom: 10px;
 }
 .stuffed-header {
     background-color: aqua;

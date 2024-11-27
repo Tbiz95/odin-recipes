@@ -39,10 +39,10 @@ body {
 
 .lasagna-description,
 .ingredients-list.lasagna,
-.lasagna.steps-list {
+.lasagna-steps li {
 background-color:aqua;
 }
-.lasagna.steps-list {
+.lasagna-steps li {
     padding-bottom: 10px;
 }
 .stuffed-header {
@@ -60,8 +60,12 @@ background-color:aqua;
 .stuffed-subheader {
     background-color: aqua;
 }
-.stuffed-list {
+.stuffed-list,
+.stuffed-steps {
     background-color:gold;
+}
+.stuffed-steps li {
+    padding-bottom: 10px;
 }
 .stirfry-header {
     text-align:center;
